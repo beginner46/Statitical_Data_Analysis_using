@@ -14,3 +14,5 @@ auction on the NASDAQ stock exchange. And finding the parameters having
 maximum impact on bid_price using Julia. The data for this project was taken from
 the following kaggle competition (https://www.kaggle.com/competitions/optivertrading-
 at-the-close/data).
+
+For better understanding of the heatmap and readability of the work it is recommended to open the pdf file, Julia_codes.pdf
