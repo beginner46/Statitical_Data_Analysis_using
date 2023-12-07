@@ -16,3 +16,5 @@ the following kaggle competition (https://www.kaggle.com/competitions/optivertra
 at-the-close/data).
 
 For better understanding of the heatmap and readability of the work it is recommended to open the pdf file, [Julia_codes.pdf](https://github.com/beginner46/Statitical_Data_Analysis_using_Julia)
+
+Important libraries used - [CategoricalArrays](https://github.com/JuliaData/CategoricalArrays.jl), [StatsPlot](https://juliahub.com/ui/Packages/General/StatPlots/), [GLM](https://juliastats.org/GLM.jl/v0.11/)
