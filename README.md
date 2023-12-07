@@ -15,4 +15,4 @@ maximum impact on bid_price using Julia. The data for this project was taken fro
 the following kaggle competition (https://www.kaggle.com/competitions/optivertrading-
 at-the-close/data).
 
-For better understanding of the heatmap and readability of the work it is recommended to open the pdf file, Julia_codes.pdf
+For better understanding of the heatmap and readability of the work it is recommended to open the pdf file, [Julia_codes.pdf](https://github.com/beginner46/Statitical_Data_Analysis_using_Julia)
